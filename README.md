@@ -16,7 +16,7 @@
 
 In your module [![Download](https://api.bintray.com/packages/florent37/maven/AnimatedPencil/images/download.svg)](https://bintray.com/florent37/maven/AnimatedPencil/_latestVersion)
 ```groovy
-compile 'com.github.florent37:animatedpencil:1.0.2'
+compile 'com.github.florent37:animatedpencil:1.0.0'
 ```
 
 # Credits
