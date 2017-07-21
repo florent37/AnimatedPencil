@@ -1,6 +1,6 @@
 # AnimatedPencil
 
-[![screen](https://raw.githubusercontent.com/florent37/AnimatedPencil/master/media/sample.gif)](https://www.github.com/florent37/AnimatedPencil)
+[![screen](https://raw.githubusercontent.com/florent37/AnimatedPencil/master/media/sample2.gif)](https://www.github.com/florent37/AnimatedPencil)
 
 # Usage
 
