@@ -7,11 +7,19 @@
     android:background="@color/colorPrimary"
     tools:context="com.github.florent37.pencilclick.MainActivity">
 
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+    </android.support.design.widget.FloatingActionButton>
+
     <com.github.florent37.animatedpencil.AnimatedPencil
         android:id="@+id/pencil"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:pencil_color="@android:color/white"
+        android:elevation="6dp"
         android:layout_gravity="center"/>
 
 </FrameLayout>

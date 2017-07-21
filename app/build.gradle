@@ -15,6 +15,7 @@ android {
 
 dependencies {
     compile 'com.android.support:appcompat-v7:'+project.supportVersion
+    compile 'com.android.support:design:'+project.supportVersion
 
     compile project(':animatedpencil')
 }
