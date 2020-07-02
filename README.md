@@ -29,7 +29,7 @@ compile 'com.github.florent37:animatedpencil:1.0.0'
 
 # Credits
 
-Author: Florent Champigny [http://www.florentchampigny.com/](http://www.florentchampigny.com/)
+Author: Florent Champigny 
 
 
 <a href="https://goo.gl/WXW8Dc">
